@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🚀 Willkommen bei Qtix Silicon</h1>
+  <h1>🚀 Willkommen bei Qtix</h1>
   <p><b>Hardware isn't hard, it's just logic. </b></p>
 </div>
 
